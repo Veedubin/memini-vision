@@ -8,7 +8,7 @@ its existing RRF). No FastMCP, no CLI, no HTTP server — library only.
 
 from __future__ import annotations
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = [
     "ALLOWED_CLIP_MODELS",
     "EMBEDDING_DIM",
